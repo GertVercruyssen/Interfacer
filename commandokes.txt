@@ -1,0 +1,1 @@
+cool-retro-term --fullscreen -e '/home/gert/build-Interfacer-Desktop-Debug/Interfacer' /home/gert/Desktop/ShipAI.txt
